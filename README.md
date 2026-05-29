@@ -1,56 +1,51 @@
-# India Vehicle Registration & EV Transition Analysis (2020–2025)
+India Vehicle Registration & EV Transition Dashboard (Power BI)
 
-## Overview
-This project analyzes **India’s vehicle registration data (2020–2025)** to understand market trends,
-fuel-type dominance, and the transition toward electric vehicles (EVs).  
-The analysis is presented through **interactive Power BI dashboards**.
+Project Overview  
+This project is a Power BI dashboard built to analyze vehicle registration trends in India from 2020 to 2025.  
+It focuses on overall market growth, fuel-type distribution, and the adoption of electric vehicles (EVs) across states.
 
----
+The dashboard transforms raw vehicle registration data into interactive visuals for easy trend analysis and insights.
 
-## Objectives
-- Analyze overall vehicle registration trends
-- Study fuel-type distribution (Petrol, Diesel, EV)
-- Track EV adoption across states
-- Identify top states and manufacturers
-- Compare private vs commercial vehicles
+Data Source  
+Publicly available vehicle registration data (CSV format), cleaned and transformed for analysis.
 
----
+Dashboard Pages  
 
-## Tools Used
-- Power BI  
-- DAX  
+1. Vehicle Registration Overview  
+- Total vehicle registrations  
+- Year-wise registration trends  
+- Top states by registrations  
+- Leading vehicle manufacturers  
+
+2. EV Transition Analysis  
+- EV penetration percentage  
+- Year-wise EV growth  
+- State-wise EV adoption comparison  
+
+3. Market Segmentation  
+- Vehicle category distribution (2W, 3W, 4W, etc.)  
+- Fuel-type split across segments  
+
+4. Fuel & Compliance Analysis  
+- Petrol vs Diesel vs EV comparison  
+- Private vs Commercial vehicle usage  
+- New vs resale vehicle distribution  
+
+Tools & Technologies  
+- Power BI Desktop  
 - Excel / CSV  
+- Data modeling  
+- Basic DAX measures  
 
----
+What I Learned  
+- Cleaning and transforming large datasets  
+- Building interactive dashboards in Power BI  
+- Creating KPIs and calculated measures using DAX  
+- Analyzing market and policy-related trends  
 
-## Dashboards
-- **Vehicle Registration Overview** – total registrations, trends, top states
-- **EV Transition Analysis** – EV growth and penetration
-- **Market Segmentation** – vehicle categories and fuel mix
-- **Fuel & Compliance Analysis** – fuel usage and ownership type
+Project Files  
+- India_Vehicle_Registration_Analysis.pbix – Power BI dashboard file  
+- Dashboard_Screenshots/ – Dashboard preview images  
 
----
-
-## Key Insights
-- Petrol vehicles dominate total registrations
-- EV adoption is growing but still limited
-- Two-wheelers form the largest market share
-- Uttar Pradesh and Maharashtra lead in registrations
-
----
-
-## How to Use
-1. Download the `.pbix` file from the repository
-2. Open it in **Power BI Desktop**
-3. Use filters and slicers to explore insights
-
----
-
-## Dashboard Preview
-Screenshots are available in the `Dashboard_Screenshots` folder.
-
----
-
-## Author
-**Nitish Rana**  
-Aspiring Data Analyst
+Note  
+GitHub does not support previewing .pbix files. Please refer to the screenshots folder for dashboard visuals.
