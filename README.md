@@ -48,4 +48,4 @@ Project Files
 - Dashboard_Screenshots/ – Dashboard preview images  
 
 Note  
-GitHub does not support previewing .pbix files. Please refer to the screenshots folder for dashboard visuals.
+GitHub does not support previewing Power BI (.pbix) files. To view the dashboard interactively, download the file and open it using Power BI Desktop. Screenshots are provided for quick reference.
